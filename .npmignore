@@ -1,0 +1,11 @@
+/* MacOS */
+.DS_Store
+
+/* NPM */
+/node_modules
+npm*
+
+/examples
+/test
+.travis.yml
+makefile
