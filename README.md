@@ -1,4 +1,4 @@
-## thunkify\-mongoose\-model
+## thunkify-mongoose-model
 #### Help to thunkify methods of mongoose model to work with [`co`](https://github.com/visionmedia/co)
 
 ### Installation

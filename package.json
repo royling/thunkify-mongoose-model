@@ -1,10 +1,10 @@
 {
   "author": "Roy Ling <royling0024@gmail.com> ()",
-  "name": "thunkify\-mongoose\-model",
+  "name": "thunkify-mongoose-model",
   "description": "Help to thunkify methods of mongoose model to work with co",
   "version": "0.0.1",
   "repository": {
-    "url": "https:\/\/github.com\/RoyLING\/thunkify\-mongoose\-model.git"
+    "url": "https://github.com/RoyLING/thunkify-mongoose-model.git"
   },
   "main": "index.js",
   "scripts": {},
