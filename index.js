@@ -1,7 +1,7 @@
 /**
  * Help to thunkify methods of mongoose model to work with co
  *
- * @package thunkify\-mongoose\-model
+ * @package thunkify-mongoose-model
  * @author Roy Ling <royling0024@gmail.com>
  */
 
